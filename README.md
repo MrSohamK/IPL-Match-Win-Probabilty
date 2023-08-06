@@ -1,0 +1,2 @@
+# IPL-Match-Win-Probabilty
+This project is an IPL (Indian Premier League) Win Predictor app built using Streamlit. It allows users to select two cricket teams, the host city, and input match-specific information like target, current score, overs completed, and wickets fallen. The app then uses a pre-trained machine learning model to predict the probability of each team winning the match based on the provided inputs. Users can interact with the app and get real-time win probabilities for different scenarios during an IPL cricket match.
